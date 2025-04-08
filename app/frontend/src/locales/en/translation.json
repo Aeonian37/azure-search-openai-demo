@@ -37,12 +37,16 @@
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything",
     "defaultExamples": {
-        "1": "Chat with documents uploaded by IT.",        
+        "1": "Chat with documents uploaded by IT.",
+        "2": "What does Quality Insights do?",
+        "3": "What is healthcare?",         
         "placeholder": "Type a new question"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Ask a question with uploaded documents.",        
+        "1": "Ask a question with uploaded documents.",   
+        "2": "What does Quality Insights do?",
+        "3": "What is healthcare?",     
         "placeholder": "Example: What is healthcare?"
     },
     "generatingAnswer": "Generating answer",
